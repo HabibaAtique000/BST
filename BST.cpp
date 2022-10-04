@@ -6,14 +6,37 @@
 //edited by Habiba Atique
 // Binary Search Tree
 //Datastructures and Algorithms
-//  main.cpp
-//  BST
-//  Created by Hina Khalid  on 17/06/2020.
-//  Copyright © 2020 Hina Khalid . All rights reserved.
-//used by HabibaAtique
-//edited by Habiba Atique
-// Binary Search Tree
-//Datastructures and Algorithms
+
+
+/*
+#include <iostream>
+
+using namespace std;
+
+struct node
+{
+    int data;
+    node *next;
+};
+
+class linked_list
+{
+private:
+    node *head,*tail;
+public:
+    linked_list()
+    {
+        head = NULL;
+        tail = NULL;
+    }
+};
+
+int main()
+{
+    linked_list a;
+    return 0;
+}
+*/
 
 #include <iostream>
 #include <string>
