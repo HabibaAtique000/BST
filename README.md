@@ -1,9 +1,5 @@
 # bst
-a
-b
-c
-d
-e
-f
-g
-h
+//used by HabibaAtique
+//edited by Habiba Atique
+// Binary Search Tree
+//Datastructures and Algorithms
